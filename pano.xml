@@ -1,123 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node8" appversion="6.1.11" apprev="18043">
-  <panorama id="node8">
-    <input leveltilesize="510" overlap="1" levelingpitch="-1.01449" levelingroll="1.00714" width="1440" levelbiashidpi="1.000" levelbias="0.400" height="1440" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1440" height="1440" predecode="0"/>
-      <level preload="0" width="720" height="720" predecode="0"/>
-      <level preload="1" width="360" height="360" predecode="1"/>
+<tour apprev="18043" start="node3" appversion="6.1.11">
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="-0.7015130000000001" levelingroll="-1.22223" height="1440" levelbiashidpi="1.000" leveltilesize="510" width="1440">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" tilt="-18.45" fov="70" pan="102.31"/>
-      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-27.45" fov="70" pan="103.1" projection="4"/>
+      <flyin tilt="-27.45" fov="70" pan="103.1" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
     </view>
-    <userdata info="" heading="0" latitude="" nodeid="node8" title="Zarechny" description="Zarechny" customnodeid="" source="" copyright="" datetime="22.06.2021 13:08" author="" comment="" longitude="" tags="panoramas"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" background="1" wordwrap="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" textalpha="1" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="-6.51" customimagewidth="40" url="{node12}" use3D="0" distance3D="228.601" title="" target="" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 14.png" customimageheight="40" fov="10" skinid="ht_node" pan="-345.69" id="Point02"/>
-      <hotspot tilt="-4.29" customimagewidth="40" url="{node9}" use3D="0" distance3D="228.601" title="" target="" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 14.png" customimageheight="40" fov="10" skinid="ht_node" pan="-354.65" id="Point03"/>
-      <hotspot tilt="-72.29" customimagewidth="40" url="{node13}" use3D="0" distance3D="228.601" title="" target="" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 14.png" customimageheight="40" fov="10" skinid="ht_node" pan="-268.49" id="Point04"/>
-      <hotspot tilt="-33.27" customimagewidth="40" url="media/Городская панорама.mp4" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 21.png" customimageheight="40" fov="10" skinid="ht_video_file" pan="-260.28" id="Point05"/>
-      <hotspot tilt="-23.26" customimagewidth="40" url="media/карнавал.mp4" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 21.png" customimageheight="40" fov="10" skinid="ht_video_file" pan="-50.18" id="Point06"/>
-      <hotspot tilt="-10.4" customimagewidth="40" url="images/Inclusive yacht racing.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-25.94" id="Point07"/>
-      <hotspot tilt="-20.4" customimagewidth="40" url="images/Neptune swimming pool.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-13.64" id="Point08"/>
-      <hotspot tilt="-5.22" customimagewidth="40" url="images/Zarechny.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-249.08" id="Point09"/>
-      <hotspot tilt="-5.51" customimagewidth="40" url="images/Kurchatov Readings.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-256.83" id="Point10"/>
-      <hotspot tilt="-5.62" customimagewidth="40" url="images/Scientific show.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-264.67" id="Point11"/>
-      <hotspot tilt="-5.74" customimagewidth="40" url="images/Aleshcenkov boulevard.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-272.92" id="Point12"/>
-      <hotspot tilt="-6.14" customimagewidth="40" url="images/Cathedral of the Protection.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-281.01" id="Point13"/>
-      <hotspot tilt="-12.43" customimagewidth="40" url="images/Fish stocking to the Beloyarsk Reservoir.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-18.81" id="Point14"/>
-      <hotspot tilt="-6.33" customimagewidth="40" url="images/Atomic City in Bloom.jpg" use3D="0" distance3D="228.601" title="" target="_blank" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 8.png" customimageheight="40" fov="10" skinid="ht_image" pan="-288.28" id="Point15"/>
+    <userdata latitude="" title="Zarechny" author="" source="" tags="панорамы" nodeid="node3" datetime="22.06.2021 13:08" copyright="" info="" comment="" longitude="" description="Zarechny" customnodeid="" heading="0"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundcolor="0xffffff" border="1" enabled="1" background="1" textalpha="1" textcolor="0x000000" wordwrap="1" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point02" target="" skinid="ht_node" tilt="-74.64" fov="10" distance3D="171.451" title="" customimageheight="30" use3D="0" url="{node6}" customimagewidth="30" pan="-269.82" customimage="media/6.png" description=""/>
+      <hotspot id="Point03" target="" skinid="ht_node" tilt="-10.06" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="{node5}" customimagewidth="40" pan="-348.83" customimage="media/6.png" description=""/>
+      <hotspot id="Point04" target="" skinid="ht_node" tilt="-5.9" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="{node4}" customimagewidth="40" pan="-358.03" customimage="media/6.png" description=""/>
+      <hotspot id="Point05" target="_blank" skinid="ht_video_file" tilt="-20.28" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="media/6 карнавал.mp4" customimagewidth="40" pan="-52.31" customimage="media/12.png" description=""/>
+      <hotspot id="Point06" target="_blank" skinid="ht_image" tilt="-10.01" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Инклюзивная парусная регата.jpg" customimagewidth="40" pan="-27.02" customimage="media/2.png" description=""/>
+      <hotspot id="Point07" target="_blank" skinid="ht_image" tilt="-13.75" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Зарыбление Белоярского водохранилища.jpg" customimagewidth="40" pan="-20.35" customimage="media/2.png" description=""/>
+      <hotspot id="Point08" target="_blank" skinid="ht_video_file" tilt="-35.42" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="media/5. Вид с дрона Заречный.mp4" customimagewidth="40" pan="-259.82" customimage="media/3.png" description=""/>
+      <hotspot id="Point09" target="_blank" skinid="ht_image" tilt="-4.82" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Заречный.jpg" customimagewidth="40" pan="-253.33" customimage="media/2.png" description=""/>
+      <hotspot id="Point10" target="_blank" skinid="ht_image" tilt="-5.2" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Курчатовские чтения.jpg" customimagewidth="40" pan="-259.74" customimage="media/2.png" description=""/>
+      <hotspot id="Point11" target="_blank" skinid="ht_image" tilt="-5.25" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Научное шоу.jpg" customimagewidth="40" pan="-265.72" customimage="media/2.png" description=""/>
+      <hotspot id="Point12" target="_blank" skinid="ht_image" tilt="-5.24" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Бульвар Алещенкова.jpg" customimagewidth="40" pan="-271.87" customimage="media/2.png" description=""/>
+      <hotspot id="Point13" target="_blank" skinid="ht_image" tilt="-5.62" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Храм Покрова Божией Матери.jpg" customimagewidth="40" pan="-277.82" customimage="media/2.png" description=""/>
+      <hotspot id="Point14" target="_blank" skinid="ht_image" tilt="-5.49" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Цветущий атомград.jpg" customimagewidth="40" pan="-283.7" customimage="media/2.png" description=""/>
+      <hotspot id="Point15" target="_blank" skinid="ht_image" tilt="-16.49" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="images/Бассейн «Нептун».jpg" customimagewidth="40" pan="-13.21" customimage="media/2.png" description=""/>
     </hotspots>
-    <media>
-      <lensflare tilt="13.260" alpha="80.000" color="0xffffff" type="1" blinding="50.000" pan="-99.650" id="Lensflare01"/>
-    </media>
-    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomout="0" zoomin="0" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" softedge="0" zoomspeed="2"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" sensitivity="8" speedwheel="1" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" hideabout="0"/>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1"/>
   </panorama>
-  <panorama id="node9">
-    <input leveltilesize="510" overlap="1" levelingpitch="0" levelingroll="0" width="1440" levelbiashidpi="1.000" levelbias="0.400" height="1440" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1440" height="1440" predecode="0"/>
-      <level preload="0" width="720" height="720" predecode="0"/>
-      <level preload="1" width="360" height="360" predecode="1"/>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" height="1440" levelbiashidpi="1.000" leveltilesize="510" width="1440">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" tilt="10.85" fov="70" pan="17.42"/>
-      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="5.57" fov="70" pan="-5.56" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
     </view>
-    <userdata info="" heading="0" latitude="" nodeid="node9" title="Aleshchenkov boulevard" description="Aleshchenkov boulevard" customnodeid="" source="" copyright="" datetime="22.06.2021 13:08" author="" comment="" longitude="" tags="panoramas"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" background="1" wordwrap="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" textalpha="1" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="30.33" customimagewidth="40" url="{node8}" use3D="0" distance3D="228.601" title="" target="" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 17.png" customimageheight="40" fov="10" skinid="ht_node" pan="-332.27" id="Point01"/>
+    <userdata latitude="" title="Aleshchenkov boulevard" author="" source="" tags="панорамы" nodeid="node4" datetime="22.06.2021 13:08" copyright="" info="" comment="" longitude="" description="Aleshchenkov boulevard" customnodeid="" heading="0"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundcolor="0xffffff" border="1" enabled="1" background="1" textalpha="1" textcolor="0x000000" wordwrap="1" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="" skinid="ht_node" tilt="24.37" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="{node3}" customimagewidth="40" pan="-355.88" customimage="media/9.png" description=""/>
     </hotspots>
-    <media>
-      <lensflare tilt="41.710" alpha="80.000" color="0xffffff" type="1" blinding="50.000" pan="-146.800" id="Lensflare01"/>
-    </media>
-    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomout="0" zoomin="0" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" softedge="0" zoomspeed="2"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" sensitivity="8" speedwheel="1" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" hideabout="0"/>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1"/>
   </panorama>
-  <panorama id="node12">
-    <input leveltilesize="510" overlap="1" levelingpitch="0.572531" levelingroll="-0.963385" width="1440" levelbiashidpi="1.000" levelbias="0.400" height="1440" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1440" height="1440" predecode="0"/>
-      <level preload="0" width="720" height="720" predecode="0"/>
-      <level preload="1" width="360" height="360" predecode="1"/>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0.673158" levelingroll="-1.04666" height="1440" levelbiashidpi="1.000" leveltilesize="510" width="1440">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" tilt="20.82" fov="70" pan="164.1"/>
-      <flyin projection="4" tilt="20.82" fov="70" pan="164.1"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="23.46" fov="70" pan="155.25" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
     </view>
-    <userdata info="" heading="0" latitude="" nodeid="node12" title="Cathedral of the Protection" description="Cathedral of the Protection" customnodeid="" source="" copyright="" datetime="22.06.2021 13:08" author="" comment="" longitude="" tags="panoramas"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" background="1" wordwrap="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" textalpha="1" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="28.41" customimagewidth="40" url="{node8}" use3D="0" distance3D="228.601" title="" target="" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 17.png" customimageheight="40" fov="10" skinid="ht_node" pan="-152.27" id="Point01"/>
+    <userdata latitude="" title="Cathedral of the Protection" author="" source="" tags="панорамы" nodeid="node5" datetime="22.06.2021 13:08" copyright="" info="" comment="" longitude="" description="Cathedral of the Protection" customnodeid="" heading="0"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundcolor="0xffffff" border="1" enabled="1" background="1" textalpha="1" textcolor="0x000000" wordwrap="1" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="" skinid="ht_node" tilt="32.36" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="{node3}" customimagewidth="40" pan="-175.97" customimage="media/9.png" description=""/>
     </hotspots>
-    <media>
-      <lensflare tilt="50.140" alpha="80.000" color="0xffffff" type="1" blinding="50.000" pan="-327.920" id="Lensflare01"/>
-    </media>
-    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomout="0" zoomin="0" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" softedge="0" zoomspeed="2"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" sensitivity="8" speedwheel="1" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" hideabout="0"/>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1"/>
   </panorama>
-  <panorama id="node13">
-    <input leveltilesize="510" overlap="1" levelingpitch="-0.514528" levelingroll="0.734718" width="1440" levelbiashidpi="1.000" levelbias="0.400" height="1440" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="1440" height="1440" predecode="0"/>
-      <level preload="0" width="720" height="720" predecode="0"/>
-      <level preload="1" width="360" height="360" predecode="1"/>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" levelingroll="0" height="1440" levelbiashidpi="1.000" leveltilesize="510" width="1440">
+      <level preload="0" predecode="0" height="1440" width="1440"/>
+      <level preload="0" predecode="0" height="720" width="720"/>
+      <level preload="1" predecode="1" height="360" width="360"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" tilt="0" fov="70" pan="-12.24"/>
-      <flyin projection="4" tilt="0" fov="70" pan="-12.24"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.54" fov="70" pan="162.52" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360"/>
     </view>
-    <userdata info="" heading="0" latitude="" nodeid="node13" title="central square" description="central square" customnodeid="" source="" copyright="" datetime="22.06.2021 13:08" author="" comment="" longitude="" tags="panoramas"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" width="180" background="1" wordwrap="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" textalpha="1" height="20"/>
-      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="18.65" customimagewidth="40" url="{node8}" use3D="0" distance3D="228.601" title="" target="" description="" customimage="media/Иконки кластер_Монтажная область 1 копия 17.png" customimageheight="40" fov="10" skinid="ht_node" pan="-189.15" id="Point01"/>
+    <userdata latitude="" title="central square" author="" source="" tags="панорамы" nodeid="node6" datetime="22.06.2021 13:08" copyright="" info="" comment="" longitude="" description="central square" customnodeid="" heading="0"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundcolor="0xffffff" border="1" enabled="1" background="1" textalpha="1" textcolor="0x000000" wordwrap="1" height="20" borderradius="1" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" target="" skinid="ht_node" tilt="12.49" fov="10" distance3D="228.601" title="" customimageheight="40" use3D="0" url="{node3}" customimagewidth="40" pan="-191.55" customimage="media/9.png" description=""/>
     </hotspots>
-    <media>
-      <lensflare tilt="43.550" alpha="80.000" color="0xffffff" type="1" blinding="50.000" pan="-153.290" id="Lensflare01"/>
-    </media>
-    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" blendtime="1" zoomout="0" zoomin="0" zoomfov="20" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" softedge="0" zoomspeed="2"/>
-    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" dblclickfullscreen="0" sensitivity="8" speedwheel="1" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" hideabout="0"/>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" sensitivity="8" lockedkeyboard="0" invertwheel="0" speedwheel="1"/>
   </panorama>
   <masternode>
-    <userdata info="" heading="0" latitude="" nodeid="master" title="" description="" customnodeid="" source="" copyright="" datetime="" author="" comment="" longitude="" tags=""/>
+    <userdata latitude="" title="" author="" source="" tags="" nodeid="master" datetime="" copyright="" info="" comment="" longitude="" description="" customnodeid="" heading="0"/>
   </masternode>
 </tour>
